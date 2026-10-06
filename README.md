@@ -555,17 +555,17 @@ Possible future improvements include:
 
 <div align="center">
 
-| 🧑‍💻 Mandar Rajadhyaksha | 🧑‍💻 Sarvesh Patil |
-|:---:|:---:|
-| **Third Year Engineering** | **Third Year Engineering** |
-| Datta Meghe College of Engineering | Datta Meghe College of Engineering |
-| 📍 Navi Mumbai | 📍 Navi Mumbai |
+| 🧑‍💻 Mandar Rajadhyaksha | 🧑‍💻 Sarvesh Patil | 🧑‍💻 Ritesh Rathod |
+|:---:|:---:|:---:|
+| **Third Year Engineering** | **Third Year Engineering** |**Third Year Engineering** |
+| Datta Meghe College of Engineering | Datta Meghe College of Engineering |Datta Meghe College of Engineering |
+| 📍 Navi Mumbai | 📍 Navi Mumbai |📍 Navi Mumbai |
 
 </div>
 
 ### 🤝 Project Contributors
 
-This academic project was developed collaboratively by **Mandar Rajadhyaksha** and **Sarvesh Patil**.
+This academic project was developed collaboratively by ***Sarvesh Patil*** , **Mandar Rajadhyaksha** and **Ritesh Rathod**.
 
 
 ---
